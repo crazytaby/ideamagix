@@ -1,0 +1,12 @@
+<div class="card">
+                        <img src="/images/cardimg.png" alt="">
+                        <div class="card_heading">
+                            Are you a Doctor/Hospital?
+                        </div>
+                        <div class="card_heading2">
+                            Join Meditreats
+                        </div>
+                        <div card="card_loremtext">
+                             Lorem ipsum dolor sit amet consectetur adipisicing 
+                        </div>
+                    </div>
